@@ -1,1 +1,1 @@
-Very Simple Calculator in C++ using classes
+Practice Projects
